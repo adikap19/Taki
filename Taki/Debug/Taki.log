@@ -1,0 +1,12 @@
+﻿  Taki.c
+C:\Users\adika\source\repos\Taki\Taki\Taki.c(104,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\adika\source\repos\Taki\Taki\Taki.c(192,83): warning C4047: '==': 'int *' differs in levels of indirection from 'int'
+C:\Users\adika\source\repos\Taki\Taki\Taki.c(195,87): warning C4047: '==': 'int *' differs in levels of indirection from 'int'
+C:\Users\adika\source\repos\Taki\Taki\Taki.c(190,1): warning C4047: 'initializing': 'int *' differs in levels of indirection from 'int'
+C:\Users\adika\source\repos\Taki\Taki\Taki.c(227,107): warning C4133: 'function': incompatible types - from 'CARD *' to 'int *'
+C:\Users\adika\source\repos\Taki\Taki\Taki.c(230,64): warning C4047: '==': 'int' differs in levels of indirection from 'void *'
+C:\Users\adika\source\repos\Taki\Taki\Taki.c(384,43): warning C4047: 'function': 'GAME *' differs in levels of indirection from 'GAME **'
+C:\Users\adika\source\repos\Taki\Taki\Taki.c(384,38): warning C4024: 'changeColor': different types for formal and actual parameter 1
+C:\Users\adika\source\repos\Taki\Taki\Taki.c(542,24): warning C4028: formal parameter 1 different from declaration
+C:\Users\adika\source\repos\Taki\Taki\Taki.c(689,9): warning C4101: 'j': unreferenced local variable
+  Taki.vcxproj -> C:\Users\adika\source\repos\Taki\Debug\Taki.exe
